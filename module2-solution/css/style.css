@@ -9,7 +9,14 @@
   clear: right;
   border: 1px solid blue;
   text-align: center;
+  float: right;
 }
+
+p
+{
+  clear: right;
+}
+
 
 /********** Desktop version **********/
 @media (min-width: 992px) {
