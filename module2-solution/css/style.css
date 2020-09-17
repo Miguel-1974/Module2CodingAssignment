@@ -1,8 +1,18 @@
-body {
-  backgroud: red;
-  font-size: 130%;
+* {
+  box-sizing: border-box;
 }
 
-h1 {
-  color: green;
+/********** Desktop version **********/
+@media (min-width: 992px) {
+ 
 }
+
+/********** Tablet version **********/
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/********** Mobile version **********/
+@media (max-width: 767px) {
+}
+
+
