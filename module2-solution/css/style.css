@@ -4,7 +4,7 @@
 
 .section_container
 {
-  width: 90%;
+  margin: 10%;
   float: left;
   background: brown;
 }
