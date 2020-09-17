@@ -22,6 +22,7 @@ p
     float: left;
     border: 1px solid green;
     padding: 10px;
+    background: brown;
   }
   .col-lg-1 {
     width: 8.33%;
