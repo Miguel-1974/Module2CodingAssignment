@@ -6,9 +6,14 @@
 {
   background: grey;
   width: 33%;
-  clear: right;
+  float: right;
   border: 1px solid blue;
   text-align: center;
+}
+
+p
+{
+  clear: left;
 }
 
 /********** Desktop version **********/
