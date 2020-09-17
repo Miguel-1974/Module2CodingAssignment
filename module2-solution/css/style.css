@@ -5,7 +5,7 @@
 .section_container
 {
   margin: 10%;
-  float: left;
+  /*float: left;*/
   background: brown;
 }
 
