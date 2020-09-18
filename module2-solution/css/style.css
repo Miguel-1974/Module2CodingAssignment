@@ -4,13 +4,18 @@
 
 .section_name
 {
-  background: grey;
+  background: DarkSeaGreen;
   width: fit-content; 
   clear: right;
-  border: 1px solid blue;
   text-align: center;
   float: right;
   padding: 0px 10px;
+}
+
+.section_div
+{
+  background: Grey;
+  border: 1px solid Green;
 }
 
 p
