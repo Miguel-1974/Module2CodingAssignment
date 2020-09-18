@@ -6,9 +6,31 @@ h1
 {
   text-align: center;
 }
-.section_name
+.section_name_1
 {
   background: DarkSeaGreen;
+  width: fit-content; 
+  clear: right;
+  text-align: center;
+  float: right;
+  padding: 0px 10px;
+  border: 2px solid Black;
+}
+
+.section_name_2
+{
+  background: DarkGoldenRod;
+  width: fit-content; 
+  clear: right;
+  text-align: center;
+  float: right;
+  padding: 0px 10px;
+  border: 2px solid Black;
+}
+
+.section_name_3
+{
+  background: Coral;
   width: fit-content; 
   clear: right;
   text-align: center;
