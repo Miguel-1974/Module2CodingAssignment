@@ -10,13 +10,13 @@
   text-align: center;
   float: right;
   padding: 0px 10px;
-  border: 1px solid Green;
+  border: 2px solid Black;
 }
 
 .section_div
 {
-  background: Gray;
-  border: 1px solid Green;
+  background: Red;
+  border: 2px solid Black;
   margin: 5%;
 }
 
